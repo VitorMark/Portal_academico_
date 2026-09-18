@@ -10,5 +10,5 @@ Vitor Marques Fernandes A. Pedreira
 Lucas Carvalho do Nascimento
 Mateus Portes Vilel
 Vinicius Abreu Gondariz
-
+Gustavo Silva de Souza
 
