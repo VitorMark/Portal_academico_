@@ -26,3 +26,6 @@ button {
 input {
  padding: 8px;
  margin: 5px; }
+button : hover {
+ opacity: 0.85;
+}
